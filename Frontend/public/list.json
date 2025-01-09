@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "The Hitchhiker’s Guide to the Galaxy",
+        "price": 0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"       
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title": "The Restaurant at the End of the Universe",
+        "price": 100,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"       
+    },
+    {
+        "id":3,
+        "name":"Food Book",
+        "title": " Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "price": 100,
+        "category": "Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"       
+    },
+    {
+        "id": 4,
+        "name": "Adventure Book",
+        "title": "The Hobbit",
+        "price": 500,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 5,
+        "name": "Sci-Fi Book",
+        "title": "Dune",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 6,
+        "name": "Fantasy Book",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": 600,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 7,
+        "name": "Classic Book",
+        "title": "1984",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 8,
+        "name": "Mystery Book",
+        "title": "Sherlock Holmes: The Complete Novels and Stories",
+        "price": 380,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 9,
+        "name": "Horror Book",
+        "title": "Dracula",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    },
+    {
+        "id": 10,
+        "name": "Historical Book",
+        "title": "The Book Thief",
+        "price": 530,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?w=740&t=st=1728384702~exp=1728385302~hmac=a3384637fee8822ec6f37cf373f3ef1b597aab00f769f197ba0546ae16075777"
+    }    
+]
