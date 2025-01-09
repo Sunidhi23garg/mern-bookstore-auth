@@ -65,8 +65,8 @@ git commit -m 'Add new feature'
 git push origin feature-name
 5. Open a pull request.
 
-🧪 Testing
-Can write unit and integration tests to ensure the application works correctly.
+## 🧪 Testing
+You can write unit and integration tests to ensure the application works correctly.
 
 -- Install Testing Dependencies:
 npm install --save-dev jest supertest
